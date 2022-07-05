@@ -2,7 +2,7 @@
 
 let numero = parseInt(prompt("Ingrese un número"))
 
-if(numero1 % 2 === 0){
+if(numero % 2 === 0){
     document.write("El número ingresado es disivible en 2")
 }else if(numero % 3 === 0){
     document.write("El número ingresado es divisible en 3")
